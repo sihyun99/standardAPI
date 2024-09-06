@@ -2,13 +2,6 @@
 
 ## Easy start , Easy making
 There are utills for easily implementing an api server.
-***
-## Contents
- - [Technology Used](#technology-used)
- - [Goals](#Goals)
- - [Target](#Target)
- - [Quick Start](#quick-start)
- - [Some Pages](#some-pages)
 
 ***
 ## Technology Used
