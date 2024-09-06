@@ -1,0 +1,7 @@
+
+standard/standard/src/main/resources/application-local.properties
+standard/standard/src/main/resources/application-dev.properties
+standard/standard/src/main/resources/application-prod.properties
+standard/standard/src/main/resources/application.properties
+standard/standard/src/main/resources/logback-spring.xml
+*.properties
