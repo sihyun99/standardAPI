@@ -1,5 +1,4 @@
 # SIAN STANDARD API 
-***
 
 ## Easy start , Easy making
 There are utills for easily implementing an api server.
@@ -13,10 +12,9 @@ There are utills for easily implementing an api server.
 
 ***
 ## Technology Used
-![Spring Boot](https://img.shields.io/badge/springboot_3.0.4-444444?style=for-the-badge&logo=springboot)<br/>
+![Spring Boot](https://img.shields.io/badge/springboot_3.3.4-444444?style=for-the-badge&logo=springboot)<br/>
 ![Gradle](https://img.shields.io/badge/gradle-444444?style=for-the-badge&logo=gradle)<br/>
 ![Java](https://img.shields.io/badge/Java_17-444444?style=for-the-badge&logo=Java&logoColor=white)  <br/>
-![Mysql](https://img.shields.io/badge/mysql_8.0.32-444444?style=for-the-badge&logo=mysql)<br/>
 ![Github](https://img.shields.io/badge/github-444444?style=for-the-badge&logo=github)
 
 ***
